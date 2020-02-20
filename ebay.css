@@ -1,0 +1,15 @@
+@charset "utf-8";
+.top {
+    font-family: Verdana;
+	font-size:1em; line-height:1.5em;
+}
+.promo {
+	font-style: italic; color: blue;
+}
+.specs {
+	font-size: medium;
+	line-height: 1.2em;
+}
+.bold {
+	font-weight: bold;
+}
